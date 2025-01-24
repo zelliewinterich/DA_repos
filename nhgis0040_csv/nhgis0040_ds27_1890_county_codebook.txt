@@ -1,0 +1,181 @@
+--------------------------------------------------------------------------------
+Codebook for NHGIS data file 'nhgis0040_ds27_1890_county'
+--------------------------------------------------------------------------------
+ 
+Contents
+    - Data Summary
+    - Data Dictionary
+    - Citation and Use
+ 
+Additional documentation on NHGIS data sources is available at: 
+    https://www.nhgis.org/documentation/tabular-data 
+ 
+--------------------------------------------------------------------------------
+Data Summary
+--------------------------------------------------------------------------------
+ 
+Year:             1890
+Geographic level: County (by State)
+Dataset:          1890 Census: Population, Housing, Agriculture & Manufacturing Data [US, States & Counties]
+   NHGIS code:    1890_cPHAM
+   NHGIS ID:      ds27
+ 
+Tables:
+ 
+1. Total Population
+   Universe:    Persons
+   Source code: NT1
+   NHGIS code:  AUM
+ 
+2. Urban Population 2,500 and Over
+   Universe:    Urban Persons (Incorporated Places 2,500 and Over)
+   Source code: NT2
+   NHGIS code:  AUU
+ 
+3. Population in Cities of 25,000 and Over
+   Universe:    Persons in Cities of 25,000 and Over
+   Source code: NT3
+   NHGIS code:  AU4
+ 
+4. Race/Nativity by Sex
+   Universe:    Persons
+   Source code: NT6
+   NHGIS code:  AV0
+ 
+5. Foreign-born Population by Country of Birth
+   Universe:    Foreign-Born Persons
+   Source code: NT46
+   NHGIS code:  AVL
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+Context Fields 
+    GISJOIN:     GIS Join Match Code
+    YEAR:        Data File Year
+    STATE:       State Name
+    STATEA:      State Code
+    COUNTY:      County Name
+    COUNTYA:     County Code
+    AREANAME:    Area name
+ 
+Table 1:     Total Population
+Universe:    Persons
+Source code: NT1
+NHGIS code:  AUM
+    AUM001:      Total
+ 
+Table 2:     Urban Population 2,500 and Over
+Universe:    Urban Persons (Incorporated Places 2,500 and Over)
+Source code: NT2
+NHGIS code:  AUU
+    AUU001:      Total
+ 
+Table 3:     Population in Cities of 25,000 and Over
+Universe:    Persons in Cities of 25,000 and Over
+Source code: NT3
+NHGIS code:  AU4
+    AU4001:      Total
+ 
+Table 4:     Race/Nativity by Sex
+Universe:    Persons
+Source code: NT6
+NHGIS code:  AV0
+    AV0001:      White: Native-born of native parentage >> Male
+    AV0002:      White: Native-born of native parentage >> Female
+    AV0003:      White: Native-born of foreign parentage >> Male
+    AV0004:      White: Native-born of foreign parentage >> Female
+    AV0005:      White: Foreign-born >> Male
+    AV0006:      White: Foreign-born >> Female
+    AV0007:      Colored >> Male
+    AV0008:      Colored >> Female
+ 
+Table 5:     Foreign-born Population by Country of Birth
+Universe:    Foreign-Born Persons
+Source code: NT46
+NHGIS code:  AVL
+    AVL001:      Africa (country unspecified)
+    AVL002:      Asia (country unspecified)
+    AVL003:      Atlantic Islands
+    AVL004:      Australia
+    AVL005:      Austria
+    AVL006:      Belgium
+    AVL007:      Bohemia
+    AVL008:      Canada and Newfoundland
+    AVL009:      Central America (country unspecified)
+    AVL010:      China
+    AVL011:      Cuba and the West Indies
+    AVL012:      Denmark
+    AVL013:      England
+    AVL014:      Europe
+    AVL015:      France
+    AVL016:      Germany
+    AVL017:      Greece
+    AVL018:      Holland
+    AVL019:      Hungary
+    AVL020:      India
+    AVL021:      Ireland
+    AVL022:      Italy
+    AVL023:      Japan
+    AVL024:      Luxemburg
+    AVL025:      Mexico
+    AVL026:      Norway
+    AVL027:      Norway and Denmark
+    AVL028:      Pacific Islands
+    AVL029:      Poland
+    AVL030:      Portugal
+    AVL031:      Russia
+    AVL032:      Sandwich Islands
+    AVL033:      Scotland
+    AVL034:      South America (country unspecified)
+    AVL035:      Spain
+    AVL036:      Sweden
+    AVL037:      Switzerland
+    AVL038:      Turkey
+    AVL039:      Wales
+    AVL040:      Born at sea
+    AVL041:      Born in other countries
+ 
+--------------------------------------------------------------------------------
+Citation and Use of NHGIS Data
+--------------------------------------------------------------------------------
+ 
+All persons are granted a limited license to use this documentation and the
+accompanying data, subject to the following conditions:
+
+* Publications and research reports employing NHGIS data (either tabular or GIS)
+  must cite it appropriately. The citation should include the following:
+
+    Minnesota Population Center. National Historical Geographic Information
+    System: Version 2.0. Minneapolis, MN: University of Minnesota 2011.
+
+* Publications and research reports employing school attendance areas data
+  (either tabular or GIS) must cite it appropriately. The citation should
+  include the following:
+
+    The College of William and Mary and the Minnesota Population Center.
+    School Attendance Boundary Information System (SABINS): Version 1.0.
+    Minneapolis, MN: University of Minnesota 2011.
+
+* If possible, citations should also include the URL for the NHGIS site:
+
+    https://www.nhgis.org/
+
+* If possible, citations involving school attendance areas should also include
+  the URL for the SABINS site:
+
+    http://www.sabinsdata.org/
+
+In addition, we request that users send us a copy of any publications, research
+reports, or educational material making use of the data or documentation.
+Printed matter should be sent to:
+
+    NHGIS
+    Minnesota Population Center
+    University of Minnesota
+    50 Willey Hall
+    225 19th Ave S
+    Minneapolis, MN 55455
+
+Send electronic material to: nhgis@umn.edu

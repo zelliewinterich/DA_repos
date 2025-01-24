@@ -1,0 +1,160 @@
+--------------------------------------------------------------------------------
+Codebook for NHGIS data file 'nhgis0040_ds28_1890_county'
+--------------------------------------------------------------------------------
+ 
+Contents
+    - Data Summary
+    - Data Dictionary
+    - Citation and Use
+ 
+Additional documentation on NHGIS data sources is available at: 
+    https://www.nhgis.org/documentation/tabular-data 
+ 
+--------------------------------------------------------------------------------
+Data Summary
+--------------------------------------------------------------------------------
+ 
+Year:             1890
+Geographic level: County (by State)
+Dataset:          1890 Census: Religious Bodies Data [US, States & Counties]
+   NHGIS code:    1890_cRelig
+   NHGIS ID:      ds28
+ 
+Tables:
+ 
+1. Number of Communicants or Members by Type of Church Organization
+   Universe:    Church Communicants or Members
+   Source code: NT6
+   NHGIS code:  AWD
+ 
+2. Total Number of Church Communicants or Members
+   Universe:    Church Communicants or Members
+   Source code: NT12
+   NHGIS code:  AV7
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+Context Fields 
+    GISJOIN:     GIS Join Match Code
+    YEAR:        Data File Year
+    STATE:       State Name
+    STATEA:      State Code
+    COUNTY:      County Name
+    COUNTYA:     County Code
+    AREANAME:    Area name
+ 
+Table 1:     Number of Communicants or Members by Type of Church Organization
+Universe:    Church Communicants or Members
+Source code: NT6
+NHGIS code:  AWD
+    AWD001:      Advent Christian Church
+    AWD002:      Seventh Day Adventist Church
+    AWD003:      Regular Baptist (North) Church
+    AWD004:      Regular Baptist (South) Church
+    AWD005:      Regular Baptist (Colored) Church
+    AWD006:      Freewill Baptist Church
+    AWD007:      General Baptist Church
+    AWD008:      Primitive Baptist Church
+    AWD009:      Old Two-Seed-In-The-Spirit Predestinarian Baptist Church
+    AWD010:      Roman Catholic Church
+    AWD011:      Christian (Christian Connection) Church
+    AWD012:      Christian Scientist Church
+    AWD013:      Independent Churches of Christ in Christian Union
+    AWD014:      Church of God Church
+    AWD015:      Church of the New Jerusalem (Swedenborgian)
+    AWD016:      Congregationalist Church
+    AWD017:      Disciples of Christ Church
+    AWD018:      Dunkard (Conservative) Church
+    AWD019:      Evangelical Association Church
+    AWD020:      Friends (Orthodox) Church
+    AWD021:      Friends (Hicksite) Church
+    AWD022:      German Evangelical Synod of North America Church
+    AWD023:      Jewish (Orthodox) Congregation
+    AWD024:      Jewish (Reformed) Congregation
+    AWD025:      Church of Jesus Christ of Latter-day Saints
+    AWD026:      Reorganized Church of Jesus Christ of Latter-day Saints
+    AWD027:      Lutheran General Synod Church
+    AWD028:      United Synod in the South (Lutheran) Church
+    AWD029:      General Council (Lutheran) Church
+    AWD030:      Lutheran Synodical Conference Church
+    AWD031:      Joint Lutheran Synod of Ohio and Other States Church
+    AWD032:      Hauge's Lutheran Synod Church
+    AWD033:      Norwegian Lutheran Church of America
+    AWD034:      United Norwegian Lutheran Church of America
+    AWD035:      Mennonite Church
+    AWD036:      Amish Mennonite Church
+    AWD037:      Methodist Episcopal Church
+    AWD038:      African Methodist Episcopal Church
+    AWD039:      African Methodist Episcopal Zion Church
+    AWD040:      Methodist Protestant Church
+    AWD041:      Wesleyan Methodist Connection of America Church
+    AWD042:      Methodist Episcopal Church (South)
+    AWD043:      Colored Methodist Episcopal Church
+    AWD044:      Free Methodist Church
+    AWD045:      Moravian Church
+    AWD046:      Presbyterian Church in the United States of America (Northern)
+    AWD047:      Cumberland Presbyterian Church
+    AWD048:      Cumberland Presbyterian (Colored) Church
+    AWD049:      Welsh Calvinistic Methodist Church
+    AWD050:      United Presbyterian Church
+    AWD051:      Presbyterian Church in the United States (Southern)
+    AWD052:      Protestant Episcopal Church
+    AWD053:      Reformed Church in America
+    AWD054:      Reformed Church in the United States
+    AWD055:      Salvation Army Church
+    AWD056:      Spiritualist Church
+    AWD057:      United Brethren in Christ Church
+    AWD058:      United Brethren in Christ Church (Old Constitution)
+    AWD059:      Unitarian Church
+    AWD060:      Universalist Church
+ 
+Table 2:     Total Number of Church Communicants or Members
+Universe:    Church Communicants or Members
+Source code: NT12
+NHGIS code:  AV7
+    AV7001:      Total
+ 
+--------------------------------------------------------------------------------
+Citation and Use of NHGIS Data
+--------------------------------------------------------------------------------
+ 
+All persons are granted a limited license to use this documentation and the
+accompanying data, subject to the following conditions:
+
+* Publications and research reports employing NHGIS data (either tabular or GIS)
+  must cite it appropriately. The citation should include the following:
+
+    Minnesota Population Center. National Historical Geographic Information
+    System: Version 2.0. Minneapolis, MN: University of Minnesota 2011.
+
+* Publications and research reports employing school attendance areas data
+  (either tabular or GIS) must cite it appropriately. The citation should
+  include the following:
+
+    The College of William and Mary and the Minnesota Population Center.
+    School Attendance Boundary Information System (SABINS): Version 1.0.
+    Minneapolis, MN: University of Minnesota 2011.
+
+* If possible, citations should also include the URL for the NHGIS site:
+
+    https://www.nhgis.org/
+
+* If possible, citations involving school attendance areas should also include
+  the URL for the SABINS site:
+
+    http://www.sabinsdata.org/
+
+In addition, we request that users send us a copy of any publications, research
+reports, or educational material making use of the data or documentation.
+Printed matter should be sent to:
+
+    NHGIS
+    Minnesota Population Center
+    University of Minnesota
+    50 Willey Hall
+    225 19th Ave S
+    Minneapolis, MN 55455
+
+Send electronic material to: nhgis@umn.edu
