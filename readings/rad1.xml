@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <book>
-    To AMK: My Best Beloved Friend
+   <preface> To AMK: My Best Beloved Friend
 Everything my mind and heart may wish to produce shall be dedicated to you, my comrade! Although my opinions on many subjects differ from yours, your heart beats sympathetically with mine — and you are my friend.
 I looked about me — my heart was troubled by the sufferings of humanity. I turned my eyes inward I saw that man’s woes arise in man himself, and frequently only because he
 does not look straight at the objects around him. Is it possible, I said to myself, that nature has been so miserly with her children as to hide the truth forever from him who errs innocently? Is it possible that this stern stepmother has brought
@@ -9,9 +9,9 @@ happy!” This voice of nature resounded loudly within me. I arose from the desp
 stand this delusion, and — unspeakable joy! I felt that it was possible for anyone to strive for the wellbeing of his fellows. Such is the thought which moved me to sketch out what you
 are going to read. But, I said to myself, if I find a man who will approve of my intention, who for the sake of the good cause will not condemn my imperfect rendering of my
 thoughts, who will share my compassion for the sufferings of his fellow beings, who will support me in the quest before me: will not my undertaking have borne abundant fruit?
-Why, why should I seek some one who is far away? My friend, you live close to my heart—and may your name illumine this beginning!
-
-<place_1>[*1] THE DEPARTURE</place_1>
+Why, why should I seek some one who is far away? My friend, you live close to my heart—and may your name illumine this beginning!</preface>
+    
+<place_1 type="Petersburg">[*1] THE DEPARTURE</place_1>
 Having supped with friends, I took my place in the post
 chaise. As was his custom, the driver urged the horses on to
 the utmost, and in a few minutes I was outside the city. It is
@@ -38,7 +38,7 @@ I saw in an open space a three-story building.
 “What is it?” I asked my driver. “The post station.”“Where are we?” “In Sofiya.”
 Meanwhile he was unhitching the horses.
 
-<place_2>[*4] SoFIYA</place_2>
+<place_2 type="Sofia">[*4] SoFIYA</place_2>
 Silence everywhere. Lost in contemplation, I had not noticed that my carriage had been standing for some time without its horses. The driver who had brought me thither roused
 me from my reverie. "A few kopeks, Master, for a drink?”
 Although such exactions are not legal, everybody pays willingly to avoid vexatious travel regulations. Twenty kopeks
@@ -99,7 +99,7 @@ Thee, the source of all good things. Thou alone givest strength
 when nature quakes and trembles. It is the Father’s voice calling His child unto Himself. Thou gavest me life, and I return
 it unto Thee, for on earth it has become useless.
 
-<place_3>[*9] TosNA</place_3>
+<place_3 type="Tosna">[*9] TosNA</place_3>
 When I set out from Petersburg, I flattered myself that I
 was going on the best of roads. Such it was considered to be
 by everyone who had traveled on it in the wake of the Emperor. Such indeed it had once been, but only for a short time.
@@ -151,7 +151,7 @@ in Petersburg, to sell his notes to the peddlers by the pound,
 for wrapping paper; for the prospective marquisates would
 turn many a head, and he would be the cause of a recrudescence of an evil eradicated from Russia: boasting of one’s ancient lineage.
 
-<place_4>[*14] LYUBANI</place_4>
+<place_4 type="Luban">[*14] LYUBANI</place_4>
 I suppose it is all the same to you whether I traveled in
 winter or in summer. Maybe both in winter and in summer.
 It is not unusual for travelers to set out in sleighs and to return in carriages. In summer. The corduroy road tortured my
@@ -236,7 +236,7 @@ law? And you dare to defile that sacred name? Miserable one! ”
 — Tears gushed from my eyes, and while I was in this state
 the post nags brought me to the next station.
 
-<place_5>[*21] CHUDOVO</place_5>
+<place_5 type="Chudovo">[*21] CHUDOVO</place_5>
 I had barely entered the post hut when I heard the sound
 of a post bell in the street, and a few minutes later my friend
 Ch * came in. When I had left him in Petersburg, he had
@@ -455,7 +455,7 @@ jumping up from his chair, “I will go where people do not
 go, where they do not know what man is, where his name is
 unknown. Farewell!” With these words he got into his carriage and was off.
 
-<place_6>[*41] SPASSKAYA POLEST’</place_6>
+<place_6 type="Spasskaya_Polest">[*41] SPASSKAYA POLEST’</place_6>
 I drove so fast after my friend that I overtook him at the
 next post station. I tried to persuade him to return to Petersburg, tried to prove to him that small and occasional imperfections in society do not destroy its bonds, just as a pebble falling upon the expanse of the sea cannot disturb its surface. But
 he cut me off sharply, saying, “If I, a small pebble, had gone
@@ -1006,7 +1006,7 @@ Ruler of the world, if, when you read my dream, you
 smile scornfully or knit your brow, know that the pilgrim
 whom I saw has flown far away from you and disdains your palace.
 
-<place_7>[*86] PODBEREZ’E</place_7>
+<place_7 type="Poddubki">[*86] PODBEREZ’E</place_7>
 I could hardly wake up from the heroic sleep in which |
 had dreamt so much. My head was heavier than lead, worse
 than a drunkard’s head would be after a drunken bout a week
@@ -1174,7 +1174,7 @@ impudence as to watch your master when he is evacuating?’
 He replied, “These are secrets of our Law, to learn which I
 was obliged so to do.’ ”
 
-<place_8>[*99] Novgorod</place_8>
+<place_8 type="Novgorod">[*99] Novgorod</place_8>
 Be proud, ye vain founders of cities, be proud, ye founders
 of kingdoms! Dream that the glory of your name will endure
 forevermore. Pile stone upon stone, to the very clouds. Carve
@@ -1356,7 +1356,7 @@ would perhaps be no cheating in transactions concerning
 notes. . . . I began to think again, the old system went to the
 Devil, and I went to bed with an empty head.
 
-<place_9>[*113] BRONNITSY</place_9>
+<place_9 type="Bronnitsa">[*113] BRONNITSY</place_9>
 While they were changing the horses for my carriage, I
 decided to visit the high hill near Bronnitsy, on which they
 say —in ancient times, I think before the coming of the
@@ -1418,7 +1418,7 @@ forever live.’ ” [*118] The stars shall fade away, the sun himself
 Grow dim with age, and nature sink in years,
 But thou shalt flourish in immortal youth, Unhurt amidst the wars of elements, The wrecks of matter, and the crush of worlds.*
 
-<place_10>[*119] ZAYTSOVO</place_10>
+<place_10 type="Zaitsevo">[*119] ZAYTSOVO</place_10>
 In the post station at Zaytsovo I found my old friend Mr.
 Krestyankin, I had known him since childhood. We were
 not often in the same town, but our conversations, although
@@ -1837,7 +1837,7 @@ stupid. I hope you get to see a lot of Duryndins. If they do
 not always distinguish themselves by their marriages, they
 do it in some other way. Without its Duryndins the world would not last three days.”
 
-<place_11>[*154] KRESTTSY</place_11>
+<place_11 type="Krestty">[*154] KRESTTSY</place_11>
 At Kresttsy I witnessed the parting of a father from his
 children. It moved me the more deeply because I am myself
 a father and may soon be parting from my own children. An
@@ -2454,7 +2454,7 @@ voluptuousness — .* I am not surprised at your teachings. It is
 characteristic of slaves to want to see everyone in fetters. An
 equal fate for all alleviates their lot, while the superiority of others burdens their mind and spirit.
 
-<place_13>[*204] VALDAI</place_13>
+<place_13 type="Valday">[*204] VALDAI</place_13>
 This new little town was settled, they say, in the reign
 of Tsar Aleksey Mikhaylovich, by Polish prisoners of war.
 This town is famous for the amorous inclinations of its inhabitants, especially of its unmarried women. Who has not been to Valdai, who does not know the Valdai doughnuts and painted wenches? The bold and shameless
@@ -2529,7 +2529,7 @@ reception as at Valdai. The first thing one sees are painted
 girls with doughnuts. But since my youthful days are over,
 I parted speedily from the painted sirens of Valdai and Zimnogor’e,
 
-<place_14>[*210] Edrovo!</place_14>
+<place_14 type="Yedrovo">[*210] Edrovo!</place_14>
 When I reached this settlement, I got out of my carriage.
 Nor far from the highway, near the water, stood a crowd
 of women and girls. By force of habit, my lifelong master,
@@ -2853,7 +2853,7 @@ village.) “Yes, sir! Everybody dances, but not like a minstrel.”
 And he drove up to the post station. [*235] “Everybody dances, but not like a minstrel,” I repeated, as I got out of the carriage. “Everybody dances, but
 not like a minstrel,” I repeated again as I bent down, picked up, and unfolded —
 
-<place_15>[*236] KHOTILOV</place_15>
+<place_15 type="Khotilovo">[*236] KHOTILOV</place_15>
 A Project for the Future. We have brought our beloved
 country step by step to the flourishing condition in which it
 now stands; we see science, art, and industry carried to the
@@ -3257,7 +3257,7 @@ post — whether to let the horses go at a trot or at an amble,
 whether it is better for a post horse to trot or to gallop
 than to occupy myself with that which does not exist.
 
-<place_16>[*268] VYSHNY VOLOCHOK</place_16>
+<place_16 type="Vyshny">[*268] VYSHNY VOLOCHOK</place_16>
 I never pass this new town without stopping to look at the
 locks of its canal. The first man to whom it occurred to emulate nature in her benefactions and to put a river to work,
 thus bringing all the ends of a territory into closer communication, is worthy to be remembered by the most distant posterity. When the presently existing powers decay from natural
@@ -3356,7 +3356,7 @@ ashes over the fields where he practiced his tortures; stigmatize [*277] him as 
 who sees him may not only despise him but shun his approach
 to avoid infection from his example.
 
-<place_17>[*278] Vydropusk</place_17>
+<place_17 type="Vydropusk">[*278] Vydropusk</place_17>
 Here I again took up my friend’s papers. Into my hands
 fell a draft of a law for the abolition of court ranks,
 A Project for the Future. In order to restore gradually
@@ -3489,7 +3489,7 @@ example? Firm in our good intentions, [*288] firm against
 temptation from without, firm in the moderation of our desires, we shall prosper anew and shall be an example to the
 most distant posterity of how power can be joined with liberty for mutual advantage.
 
-<place_18>[*289] TORZHOK</place_18>
+<place_18 type="Torzhok">[*289] TORZHOK</place_18>
 At the post station here I met a man who was on his way to
 Petersburg to present a petition. It consisted of a request for
 permission to set up a free printing press in this town. I told
@@ -4106,7 +4106,7 @@ an emperor. Tell me, in whose head can there be more inconsistencies than in an 
 In Russia — . You will find out some other time what happened to the censorship in Russia. But now I hastily resumed
 my journey, without setting up a censorship over the post horses.
 
-<place_19>[*341] MEDNOE</place_19>
+<place_19 type="Mednoye">[*341] MEDNOE</place_19>
 “In the field a birch-tree stood, in the field a fluffy birch,
 oh lyuli, lyuli, lyuli, lyuli.” —“A chorus of young women
 and girls — they’re singing and dancing — let’s look closer,”
@@ -4220,7 +4220,7 @@ the champions of freedom are great landed proprietors, and
 freedom is not to be expected from their counsels, but from
 the heavy burden of slavery itself.” 
 
-<place_20>[*350] TVER’</place_20>
+<place_20 type="Tver">[*350] TVER’</place_20>
 “Prosody with us,” said my companion at dinner in the
 restaurant, ‘in the various senses in which it is understood, is
 still far from greatness. Poetry awoke, but has now gone back
@@ -4377,7 +4377,7 @@ voice, the voice of the Godhead. The dark citadel totters, and liberty shines fo
 an unpleasant objection to his verses, but the bell reminded me that in traveling it is better to make reasonable haste with
 post nags than to climb on Pegasus when he is mettlesome.
 
-<place_21>[*370] GORODNYA</place_21>
+<place_21 type="Gorodnya">[*370] GORODNYA</place_21>
 As I drove into this village, my ears were assailed not by
 the melody of verse, but by a heartrending lament of women,
 children, and old men. Getting out of my carriage, I sent it on
@@ -4683,7 +4683,7 @@ crowned with laurel, return to my country for a well-earned
 rest. More than once I shrugged my shoulders as I listened to
 this rogue, and with a heavy heart I lay down in my carriage and continued on my journey.
 
-<place_22>[*395] ZAvIDOvo</place_22>
+<place_22 type="zavidovo">[*395] ZAvIDOvo</place_22>
 The horses were already hitched to the carriage, and I was
 getting ready to depart, when suddenly a great commotion
 arose in the street. People started running, from one end of the
@@ -4764,7 +4764,7 @@ expose the sorcery of the magnates. What would have been the use of chasing afte
 soon as he was gone, and when I arrived at Klin, I found that
 even his memory had already vanished along with his noise.
 
-<place_23>[*401 ] KLIN</place_23>
+<place_23 type="Klin">[*401 ] KLIN</place_23>
 “It was in the city of Rome that Prince Euphemius lived
 —” Singing this folk song called “Aleksey the Man of God” ?
 was a blind old man, sitting by the gate of the post station,
@@ -4883,7 +4883,7 @@ that he had put my scarf around his neck in his last illness,
 and that they had buried him with it. Oh, he who realizes the
 value of this scarf also realizes what moved within me when I heard this.®
 
-<place_24>[*410] PESHKI</place_24>
+<place_24 type="Peshki">[*410] PESHKI</place_24>
 However much I was in a hurry to finish my journey, hunger, which, according to the proverb, breaks stone walls,
 compelled me to step into the post hut; and, since I could
 not get any ragout, fricassee, paté, or other French food invented to bring on indigestion, I had to make a meal out of
@@ -4970,7 +4970,7 @@ to his implacable judge, his conscience! [*416] Transformed
 by its thunderous voice into an immovable pillar, he would
 no longer dare to commit secret crimes; destruction and devastation would become rare — etc., etc., etc.
 
-<place_25>[*417] CHERNAYA GRYAZ’</place_25>
+<place_25 type="Chernaya">[*417] CHERNAYA GRYAZ’</place_25>
 Here I saw another fine example of a nobleman’s arbitrary
 power over the peasants. A wedding was taking place. But
 instead of a joyous procession and the soft tears of a timid
@@ -4997,7 +4997,7 @@ far his experiments were successful, you may judge for yourself, if you like, bu
 them. If the reading makes you want to sleep, put the book
 down, and sleep away. Keep it in reserve for a case of insomnia.
 
-<place_26>[*419] EULOGY ON LOMONOSov 7</place_26>
+<place_26 type="Lomonosov">[*419] EULOGY ON LOMONOSov 7</place_26>
 The pleasant cool of evening after a hot summer day lured
 me from my cell. | made my way toward the Nevsky Monastery and strolled about for a long time in the grove beyond.*
 The sun had already hidden its face, but the light curtain of
