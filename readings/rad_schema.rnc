@@ -1,0 +1,13 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
+start = element book {preface?, chatper?, meta?}
+
+preface = element preface {(text)} 
+meta = element meta {(toc | text)}
+toc = element toc {(text)} 
+    chapter = element chapter {attribute number {"1" | "2" | "3" | "4" | "5" | "6" | "7" | "8" | "9" | "10" | "11" | "12" | "13" | "14" | "15" | "16" | "17" | "18" | "19" | "20" | "21" | "22" | "23" | "24" | "25" | "26" } ?, 
+    (place | text)*}
+    
+place = attribute type { "
+    
+    
